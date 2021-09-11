@@ -11,7 +11,7 @@ ZSH_THEME="dc-lambda"
 COMPLETION_WAITING_DOTS="true"
 
 # plugins
-plugins=(ansible awscli brew docker docker-compose emoji-clock git gh )
+plugins=(ansible awscli brew docker docker-compose emoji-clock git gh thefuck)
 source $ZSH/oh-my-zsh.sh
 
 # set local & remote editor

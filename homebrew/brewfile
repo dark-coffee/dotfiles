@@ -33,6 +33,7 @@ cask 'silverlight'
 cask 'slack'
 cask 'spotify'
 cask 'visual-studio-code'
+cask 'vlc'
 
 # BREW 
 brew 'ansible'
@@ -50,6 +51,7 @@ brew 'node'
 brew 'python'
 brew 'python@3.9'
 brew 'svn'
+brew 'thefuck'
 brew 'zsh'
 brew 'youtube-dl'
 
