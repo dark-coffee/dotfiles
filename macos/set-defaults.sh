@@ -1,7 +1,7 @@
 # Sets macos defaults.
 # dark-coffee
 # modified version of https://github.com/iWader/dotfiles & https://github.com/mathiasbynens/dotfiles/blob/master/.macos, 
-#   with a little extra **s p i c e**
+#   with a little extra ** s p i c e **
 
 # Ask for the administrator password upfront
 sudo -v
