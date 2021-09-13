@@ -1,6 +1,6 @@
 # Sets macos defaults.
 # dark-coffee
-# modified version of https://github.com/iWader/dotfiles & https://github.com/mathiasbynens/dotfiles/blob/master/.macos, 
+# modified version of https://github.com/iWader/dotfiles & https://github.com/mathiasbynens/dotfiles/blob/master/.macos,
 #   with a little extra ** s p i c e **
 
 # Ask for the administrator password upfront
@@ -125,14 +125,14 @@ defaults write com.apple.commerce AutoUpdate -bool true
 
 
 
-# mail 
-# Copy email addresses as `foo@example.com` instead of `Foo Bar <foo@example.com>` in Mail.app
+# mail
+# copy raw email addresses rather than formatted
 defaults write com.apple.mail AddressesIncludeNameOnPasteboard -bool false
 
-# Add the keyboard shortcut ⌘ + Enter to send an email in Mail.app
+# outlook equivalent send keycombo
 defaults write com.apple.mail NSUserKeyEquivalents -dict-add "Send" "@\U21a9"
 
-# Disable inline attachments (just show the icons)
+# disable inline attachments
 defaults write com.apple.mail DisableInlineAttachmentViewing -bool true
 
 
