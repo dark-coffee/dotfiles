@@ -36,6 +36,7 @@ cask 'vlc'
 # BREW 
 brew 'ansible'
 brew 'awscli'
+brew 'bat'
 brew 'docker'
 brew 'docker-compose'
 brew 'ffmpeg'
