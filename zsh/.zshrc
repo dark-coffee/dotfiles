@@ -1,4 +1,4 @@
-# .zshrc 
+# .zshrc
 # dark-coffee
 
 # path to oh-my-zsh
@@ -24,3 +24,4 @@ fi
 # aliases
 alias cls="clear"
 alias fucking="sudo"
+alias ap="ansible-playbook"
