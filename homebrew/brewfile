@@ -51,6 +51,7 @@ brew 'python'
 brew 'python@3.9'
 brew 'svn'
 brew 'thefuck'
+brew 'tree'
 brew 'zsh'
 brew 'youtube-dl'
 
