@@ -1,4 +1,4 @@
-# brewfile 
+# brewfile
 # dark-coffee
 
 # HOMEBREW
@@ -33,7 +33,7 @@ cask 'spotify'
 cask 'visual-studio-code'
 cask 'vlc'
 
-# BREW 
+# BREW
 brew 'ansible'
 brew 'awscli'
 brew 'bat'
@@ -52,8 +52,9 @@ brew 'python@3.9'
 brew 'svn'
 brew 'thefuck'
 brew 'tree'
-brew 'zsh'
 brew 'youtube-dl'
+brew 'zsh'
+brew 'z'
 
 # MAC APPS
 mas '1440', id: 1483764819
