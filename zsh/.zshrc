@@ -12,7 +12,9 @@ COMPLETION_WAITING_DOTS="true"
 
 # plugins
 plugins=(ansible awscli brew docker docker-compose emoji-clock git gh thefuck)
+eval $(thefuck --alias)
 source $ZSH/oh-my-zsh.sh
+source /usr/local/etc/profile.d/z.sh
 
 # set local & remote editor
 if [[ -n $SSH_CONNECTION ]]; then
