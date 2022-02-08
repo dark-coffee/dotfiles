@@ -30,3 +30,7 @@ trim_trailing_whitespace = false
 [*compose.yml]
 indent_style = space
 indent_size = 2
+
+## zshrc file
+[*.zshrc]
+insert_final_newline = false
