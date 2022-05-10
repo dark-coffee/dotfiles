@@ -11,7 +11,7 @@ ZSH_THEME="dc-lambda"
 COMPLETION_WAITING_DOTS="true"
 
 # plugins
-plugins=(ansible awscli brew docker docker-compose emoji-clock git gh thefuck)
+plugins=(ansible brew docker docker-compose emoji-clock git gh thefuck)
 eval $(thefuck --alias)
 source $ZSH/oh-my-zsh.sh
 source $(brew --prefix)/etc/profile.d/z.sh
