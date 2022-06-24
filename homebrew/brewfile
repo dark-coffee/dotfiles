@@ -49,6 +49,7 @@ brew 'nano'
 brew 'node'
 brew 'python'
 brew 'python@3.9'
+brew 'rust'
 brew 'svn'
 brew 'thefuck'
 brew 'tree'
@@ -60,7 +61,6 @@ brew 'z'
 mas '1440', id: 1483764819
 mas 'Amphetamine', id:937984704
 mas 'Deliveries', id: 290986013
-mas 'DuckDuckGo Privacy Essentials', id: 1482920575
 mas 'Gemini 2', id: 1090488118
 mas 'Ghostery Lite', id: 1436953057
 mas 'Habitify', id: 1111447047
